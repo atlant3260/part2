@@ -1,0 +1,7 @@
+C:\Users\ittop\source\repos\Modication\Modication\bin\Debug\Modication.exe.config
+C:\Users\ittop\source\repos\Modication\Modication\bin\Debug\Modication.exe
+C:\Users\ittop\source\repos\Modication\Modication\bin\Debug\Modication.pdb
+C:\Users\ittop\source\repos\Modication\Modication\obj\Debug\Modication.csproj.AssemblyReference.cache
+C:\Users\ittop\source\repos\Modication\Modication\obj\Debug\Modication.csproj.CoreCompileInputs.cache
+C:\Users\ittop\source\repos\Modication\Modication\obj\Debug\Modication.exe
+C:\Users\ittop\source\repos\Modication\Modication\obj\Debug\Modication.pdb
