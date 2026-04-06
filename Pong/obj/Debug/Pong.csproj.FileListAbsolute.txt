@@ -7,3 +7,12 @@ C:\Users\User\source\repos\Pong\bin\Debug\Pong.exe
 C:\Users\User\source\repos\Pong\bin\Debug\Pong.pdb
 C:\Users\User\source\repos\Pong\obj\Debug\Pong.exe
 C:\Users\User\source\repos\Pong\obj\Debug\Pong.pdb
+C:\Users\it_top\source\repos\Pong\bin\Debug\Pong.exe.config
+C:\Users\it_top\source\repos\Pong\bin\Debug\Pong.exe
+C:\Users\it_top\source\repos\Pong\bin\Debug\Pong.pdb
+C:\Users\it_top\source\repos\Pong\obj\Debug\Pong.csproj.AssemblyReference.cache
+C:\Users\it_top\source\repos\Pong\obj\Debug\Pong.Properties.Resources.resources
+C:\Users\it_top\source\repos\Pong\obj\Debug\Pong.csproj.GenerateResource.cache
+C:\Users\it_top\source\repos\Pong\obj\Debug\Pong.csproj.CoreCompileInputs.cache
+C:\Users\it_top\source\repos\Pong\obj\Debug\Pong.exe
+C:\Users\it_top\source\repos\Pong\obj\Debug\Pong.pdb
